@@ -13,3 +13,9 @@ Using yolov3 for object detection and Sensor for motion check
 Using gyroscope,Linear-Accelation 
 OutPut of Seonsor
 ![9](./res/9.jpg)
+
+Reference:
+github.com/ivangrov
+docs.opencv.org/3.4
+Do it Android -9th
+
