@@ -11,3 +11,5 @@ Using yolov3 for object detection and Sensor for motion check
 ![8](./res/8.JPG)
 -Sensor for android
 Using gyroscope,Linear-Accelation 
+OutPut of Seonsor
+![9](./res/9.jpg)
